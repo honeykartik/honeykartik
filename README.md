@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kartik Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=honeykartik&label=Profile%20views&color=0e75b6&style=flat" alt="honeykartik" /> </p>
 
 - 🌱 I’m currently learning **Bootstrap,Reactjs**
